@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "eKAK0JTipjyVxuAPGUhDSRplF2zKdSwUK5oLZkqiM9M=",
+  "Source": "FittaraEcommerce.API",
+  "BasePath": "_content/FittaraEcommerce.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
